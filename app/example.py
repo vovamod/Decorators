@@ -8,5 +8,4 @@ def some_str_example(text):
 def some_random_example():
     print(random.randint(1, 100))
 
-string_example = some_str_example("token")
 token_int = 100
